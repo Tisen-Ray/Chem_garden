@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a3d4b369ce60a36c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e12971b39789006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f3392ea7ec358b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d78dc13fee4d4d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1814fc01d8f305d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fbf216a6f6a38be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2ace4da1a19a760b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36bf8e9c8f32ca97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d697926218fa48b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6bd4680aee16f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e71f9ae65fef07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chem_garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chem_garden"
+            }
+          },
+          {
+            "id": "3dd4f1ecde825085",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chem_garden.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chem_garden"
+            }
+          },
+          {
+            "id": "6202b61b018eb91c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "560eb5ea3876baaf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chem_garden.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chem_garden"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "3fbf216a6f6a38be",
+  "lastOpenFiles": [
+    "Templates",
+    "分析化学/仪器分析/色谱法基本理论与分类.md",
+    "分析化学/仪器分析/色谱法发展史.md",
+    "分析化学/仪器分析/柱效.md",
+    "分析化学/仪器分析/分离度R.md",
+    "分析化学/仪器分析/液相色谱.md",
+    "分析化学/仪器分析/塔板理论.md",
+    "分析化学/仪器分析/分配系数K.md",
+    "分析化学/仪器分析/分析化学2.md",
+    "分析化学/仪器分析/Van Deemter方程式.md",
+    "分析化学/仪器分析",
+    "Chem_garden.md",
+    "README.md"
+  ]
+}

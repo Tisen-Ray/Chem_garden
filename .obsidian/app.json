@@ -1,0 +1,9 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "attachments/"
+  ],
+  "attachmentFolderPath": "./attachments"
+}
