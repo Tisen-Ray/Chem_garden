@@ -5,9 +5,11 @@
     "children": [
       {
         "id": "98a0ec6e21edbdb8",
+        "id": "98a0ec6e21edbdb8",
         "type": "tabs",
         "children": [
           {
+            "id": "3d9f177bc77f9ecc",
             "id": "3d9f177bc77f9ecc",
             "type": "leaf",
             "state": {
@@ -55,6 +57,7 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+              "title": "Files"
             }
           },
           {
@@ -84,10 +87,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
+    "width": 307.50235748291016
     "width": 307.50235748291016
   },
   "right": {
@@ -169,6 +174,8 @@
               "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           },
           {
@@ -182,11 +189,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,15 +206,27 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:Open random note": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: Smart Chat": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "f521b41bc493a83a",
   "lastOpenFiles": [
+    "gitignore",
     "gitignore",
     "conflict-files-obsidian-git.md",
     "分析化学/仪器分析/分配系数K.md",
