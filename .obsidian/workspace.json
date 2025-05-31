@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分析化学/仪器分析/液相色谱.md",
+                "file": "分析化学/仪器分析/分配系数K.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "液相色谱"
+              "title": "分配系数K"
             }
           }
         ]
@@ -83,23 +83,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "48743f9310816d1b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.50235748291016
+    "width": 200
   },
   "right": {
     "id": "d697926218fa48b8",
@@ -193,11 +182,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,14 +202,23 @@
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "48743f9310816d1b",
+  "active": "fa7059cd3eb61ec4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "分析化学/仪器分析/分配系数K.md",
+    "分析化学/仪器分析/Van Deemter方程式.md",
+    "Visualizations/Visualizations.md",
+    "Visualizations/Gallery.md",
+    "分析化学/分析化学作业整理minwang/01.md",
+    "分析化学/仪器分析/色谱法发展史.md",
+    "分析化学/仪器分析/色谱法基本理论与分类.md",
     "分析化学/仪器分析/液相色谱.md",
+    "分析化学/仪器分析/柱效.md",
+    "分析化学/仪器分析/分离度R.md",
+    "分析化学/分析化学作业整理minwang",
     "分析化学/仪器分析/attachments/Pasted image 20250531120213.png",
     "分析化学/仪器分析/attachments/Pasted image 20250531120210.png",
     "分析化学/仪器分析/attachments/Pasted image 20250531120205.png",
@@ -229,21 +227,13 @@
     "分析化学/仪器分析/attachments/Pasted image 20250531120155.png",
     "分析化学/仪器分析/attachments/Pasted image 20250531120151.png",
     "分析化学/仪器分析/attachments/Pasted image 20250531120146.png",
-    "分析化学/仪器分析/色谱法基本理论与分类.md",
     "分析化学/仪器分析/attachments/Pasted image 20250531120053.png",
     "分析化学/仪器分析/attachments",
-    "分析化学/仪器分析/色谱法发展史.md",
-    "分析化学/仪器分析/Van Deemter方程式.md",
     "分析化学/仪器分析/分析化学2.md",
-    "分析化学/仪器分析/柱效.md",
     "分析化学/仪器分析/塔板理论.md",
-    "分析化学/仪器分析/分配系数K.md",
-    "分析化学/仪器分析/分离度R.md",
     "README.md",
     "README_en.md",
     "Templates/元笔记模板.md",
-    "Visualizations/Gallery.md",
-    "Visualizations/Visualizations.md",
     "Visualizations/Chem_garden.md",
     "Templates/Thought or Comment.md",
     "Visualizations",
