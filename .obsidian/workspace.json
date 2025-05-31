@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7c7f8ffb6ee4f1e1",
+        "id": "98a0ec6e21edbdb8",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7059cd3eb61ec4",
+            "id": "3d9f177bc77f9ecc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "分析化学/仪器分析/分配系数K.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "分配系数K"
+              "title": "New tab"
             }
           }
         ]
@@ -84,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 307.50235748291016
   },
   "right": {
     "id": "d697926218fa48b8",
@@ -182,11 +169,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +184,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "random-note:Open random note": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa7059cd3eb61ec4",
+  "active": "3d9f177bc77f9ecc",
   "lastOpenFiles": [
+    "gitignore",
     "conflict-files-obsidian-git.md",
     "分析化学/仪器分析/分配系数K.md",
     "分析化学/仪器分析/Van Deemter方程式.md",
