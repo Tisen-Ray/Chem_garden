@@ -1,4 +1,8 @@
-.smart-env/multi
+# Obsidian files
+# .obsidian/
+.smart-env/multi/
+
+# If you want to only ignore specific files in .obsidian
 .obsidian/community-plugins.json
-.obsidian/hotkeys.json
+.obsidian/hotkeys.jso
 .obsidian/workspace.json

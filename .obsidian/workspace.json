@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98a0ec6e21edbdb8",
+        "id": "e449b111e35fd43e",
         "type": "tabs",
         "children": [
           {
-            "id": "3d9f177bc77f9ecc",
+            "id": "bb6e927d046b221c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "186d7899fc8f6123",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -21,7 +31,8 @@
               "title": "Diff: community-plugins.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d9f177bc77f9ecc",
+  "active": "186d7899fc8f6123",
   "lastOpenFiles": [
     "分析化学/仪器分析/分离度R.md",
     "gitignore",
