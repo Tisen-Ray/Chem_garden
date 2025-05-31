@@ -10,7 +10,7 @@
     "embed_model": {
       "adapter": "transformers",
       "transformers": {
-        "legacy_transformers": false,
+        "legacy_transformers": true,
         "model_key": "Xenova/jina-embeddings-v2-base-zh"
       },
       "TaylorAI/bge-micro-v2": {},
@@ -29,11 +29,12 @@
     "muted": {
       "done_import": true,
       "embedding_complete": true,
-      "done_initial_scan": true
+      "done_initial_scan": true,
+      "clearing_all": true
     }
   },
   "smart_chat_threads": {
-    "active_thread_key": "Untitled Chat 1748658484305",
+    "active_thread_key": "Untitled Chat 1748662552866",
     "chat_model": {
       "platform_key": "openai",
       "adapter": "custom",
@@ -17774,7 +17775,7 @@
     "detect_self_referential": true,
     "review_context": true,
     "stream": true,
-    "language": "en",
+    "language": "zh",
     "modifier_key_to_send": "shift",
     "use_tool_calls": true
   },
