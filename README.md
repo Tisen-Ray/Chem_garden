@@ -43,7 +43,7 @@
 - **Smart Connection:** 基于Jina AI的语义向量分析
 - **Smart View:** 能够基于上一个插件所得到的相似度去绘制graph view
 
-### 🎁 特别福利
+### 其他
 我们配置了Deepseek v3 API！可以用AI读取笔记内容并回答问题 🤖💬
 
 ## ✨ 创作指南

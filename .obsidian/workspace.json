@@ -4,21 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "e449b111e35fd43e",
+        "id": "a390dce9ed86321f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6e927d046b221c",
+            "id": "cbf2c4dee635de87",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "分析化学/仪器分析/液相色谱.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: README"
+              "icon": "lucide-file",
+              "title": "液相色谱"
+            }
+          },
+          {
+            "id": "2da3c54e5f8bebaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "光电二极管阵列检测器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "光电二极管阵列检测器"
+            }
+          },
+          {
+            "id": "fa09bfc29a2e2d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "分析化学/仪器分析/分配系数K.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "分配系数K"
             }
           }
         ]
@@ -73,23 +131,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "9cdd0e6c02e50ab6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.50235748291016
+    "width": 200
   },
   "right": {
     "id": "d697926218fa48b8",
@@ -153,12 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -182,11 +230,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 418.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,26 +250,31 @@
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections-visualizer:Open smart connections visualizer": false,
-      "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "bb6e927d046b221c",
+  "active": "cbf2c4dee635de87",
   "lastOpenFiles": [
+    "分析化学/仪器分析/分配系数K.md",
+    "六通阀.md",
+    "光电二极管阵列检测器.md",
+    "分析化学/仪器分析/液相色谱.md",
+    "attachments/Pasted image 20250531203802.png",
+    "attachments",
     "README.md",
-    "README_en.md",
+    "Visualizations/Gallery.md",
+    "分析化学/仪器分析/分析化学2.md",
+    "分析化学/仪器分析/色谱法基本理论与分类.md",
+    "分析化学/仪器分析/色谱法发展史.md",
+    "分析化学/仪器分析/柱效.md",
+    "分析化学/仪器分析/塔板理论.md",
     "分析化学/仪器分析/分离度R.md",
+    "分析化学/仪器分析/Van Deemter方程式.md",
+    "分析化学/分析化学作业整理minwang/01.md",
+    "README_en.md",
     "gitignore",
     "conflict-files-obsidian-git.md",
-    "分析化学/仪器分析/分配系数K.md",
-    "分析化学/仪器分析/Van Deemter方程式.md",
     "Visualizations/Visualizations.md",
-    "Visualizations/Gallery.md",
-    "分析化学/分析化学作业整理minwang/01.md",
-    "分析化学/仪器分析/色谱法发展史.md",
-    "分析化学/仪器分析/色谱法基本理论与分类.md",
-    "分析化学/仪器分析/液相色谱.md",
-    "分析化学/仪器分析/柱效.md",
     "分析化学/分析化学作业整理minwang",
     "分析化学/仪器分析/attachments/Pasted image 20250531120213.png",
     "分析化学/仪器分析/attachments/Pasted image 20250531120210.png",
@@ -232,8 +286,6 @@
     "分析化学/仪器分析/attachments/Pasted image 20250531120146.png",
     "分析化学/仪器分析/attachments/Pasted image 20250531120053.png",
     "分析化学/仪器分析/attachments",
-    "分析化学/仪器分析/分析化学2.md",
-    "分析化学/仪器分析/塔板理论.md",
     "Templates/元笔记模板.md",
     "Visualizations/Chem_garden.md",
     "Templates/Thought or Comment.md",
