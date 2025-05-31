@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "987b436816401f1f",
+            "id": "fa09bfc29a2e2d91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "六通阀.md",
+                "file": "分析化学/仪器分析/分配系数K.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "六通阀"
+              "title": "分配系数K"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.50235748291016,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d697926218fa48b8",
@@ -236,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 418.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,11 +253,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f521b41bc493a83a",
+  "active": "cbf2c4dee635de87",
   "lastOpenFiles": [
-    "分析化学/仪器分析/液相色谱.md",
-    "光电二极管阵列检测器.md",
+    "分析化学/仪器分析/分配系数K.md",
     "六通阀.md",
+    "光电二极管阵列检测器.md",
+    "分析化学/仪器分析/液相色谱.md",
     "attachments/Pasted image 20250531203802.png",
     "attachments",
     "README.md",
@@ -268,7 +268,6 @@
     "分析化学/仪器分析/色谱法发展史.md",
     "分析化学/仪器分析/柱效.md",
     "分析化学/仪器分析/塔板理论.md",
-    "分析化学/仪器分析/分配系数K.md",
     "分析化学/仪器分析/分离度R.md",
     "分析化学/仪器分析/Van Deemter方程式.md",
     "分析化学/分析化学作业整理minwang/01.md",
