@@ -1,2 +1,4 @@
-
-.smart-env\multi
+.smart-env/multi
+.obsidian/community-plugins.json
+.obsidian/hotkeys.json
+.obsidian/workspace.json
