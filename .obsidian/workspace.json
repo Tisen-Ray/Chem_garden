@@ -11,28 +11,17 @@
             "id": "bb6e927d046b221c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "186d7899fc8f6123",
-            "type": "leaf",
-            "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
+                "aFile": "README.md",
+                "bFile": "README.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "title": "Diff: README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "186d7899fc8f6123",
+  "active": "bb6e927d046b221c",
   "lastOpenFiles": [
+    "README.md",
+    "README_en.md",
     "分析化学/仪器分析/分离度R.md",
     "gitignore",
     "conflict-files-obsidian-git.md",
@@ -243,8 +234,6 @@
     "分析化学/仪器分析/attachments",
     "分析化学/仪器分析/分析化学2.md",
     "分析化学/仪器分析/塔板理论.md",
-    "README.md",
-    "README_en.md",
     "Templates/元笔记模板.md",
     "Visualizations/Chem_garden.md",
     "Templates/Thought or Comment.md",
