@@ -8,6 +8,7 @@ source:
 type: meta
 description: 
 status: true
+author: ray
 ---
 
 ### 速率方程 Van Deemter方程

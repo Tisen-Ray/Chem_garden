@@ -5,5 +5,6 @@
   "shimmering-focus@@show-tab-list-button": true,
   "shimmering-focus@@show-new-tab-button": true,
   "shimmering-focus@@show-suggester-instructions": true,
-  "shimmering-focus@@show-sidebar-header-buttons": true
+  "shimmering-focus@@show-sidebar-header-buttons": true,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false
 }

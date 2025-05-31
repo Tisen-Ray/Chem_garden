@@ -1,0 +1,39 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&",
+    "icon": "lucide-activity"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!",
+    "icon": "lucide-alert-triangle"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "~"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "@"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$",
+    "icon": "lucide-swords"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%"
+  },
+  {
+    "char": "^",
+    "color": "213, 139, 139",
+    "icon": "experiment",
+    "custom": true
+  }
+]
