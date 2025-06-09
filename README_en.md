@@ -73,7 +73,7 @@ We've integrated Deepseek v3 API - use it to query notes and get AI-generated an
   - Reduces duplication
   - Strengthens existing knowledge
 - All disciplines welcome - not just chemistry!
-- Capture spontaneous ideas through [[wikilinks]] - they might blossom later!
+- Capture spontaneous ideas through [[Templates/Thought or Comment|Thought or Comment]] - they might blossom later!
 
 ### Commenting System
 To discuss specific content:

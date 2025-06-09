@@ -30,7 +30,9 @@
       "done_import": true,
       "embedding_complete": true,
       "done_initial_scan": true,
-      "clearing_all": true
+      "clearing_all": true,
+      "embedding_progress": true,
+      "missing_entity": true
     }
   },
   "smart_chat_threads": {
